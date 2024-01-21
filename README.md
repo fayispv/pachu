@@ -1,0 +1,2 @@
+# pachu
+setting up git
