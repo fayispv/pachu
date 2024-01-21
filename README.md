@@ -1,2 +1,2 @@
-# pachu
+# test
 setting up git
